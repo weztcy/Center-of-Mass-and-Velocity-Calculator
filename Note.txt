@@ -1,0 +1,12 @@
+Yohanes Dimas Pratama
+A11.2021.13254
+Komputasi Numerik - A11.4610
+
+Link Video Demo Aplikasi:
+https://youtu.be/vcoB9M6bHXw
+
+Link Google Colab:
+https://colab.research.google.com/drive/1fT-p60rKa2hoE9BJUU1_uBJVyTv30OWV?usp=sharing
+
+Link GitHub:
+https://github.com/weztcy/Program-Python-Center-of-Mass-Velocity
